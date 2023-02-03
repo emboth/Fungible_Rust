@@ -1,0 +1,12 @@
+/mnt/c/My/Kursevi/Udemy/Near/fungible-rust/contract/target/wasm32-unknown-unknown/release/deps/ahash-b7b8872986bf7931.rmeta: /home/emilbob/.cargo/registry/src/github.com-1ecc6299db9ec823/ahash-0.7.6/src/lib.rs /home/emilbob/.cargo/registry/src/github.com-1ecc6299db9ec823/ahash-0.7.6/src/convert.rs /home/emilbob/.cargo/registry/src/github.com-1ecc6299db9ec823/ahash-0.7.6/src/fallback_hash.rs /home/emilbob/.cargo/registry/src/github.com-1ecc6299db9ec823/ahash-0.7.6/src/operations.rs /home/emilbob/.cargo/registry/src/github.com-1ecc6299db9ec823/ahash-0.7.6/src/random_state.rs /home/emilbob/.cargo/registry/src/github.com-1ecc6299db9ec823/ahash-0.7.6/src/specialize.rs
+
+/mnt/c/My/Kursevi/Udemy/Near/fungible-rust/contract/target/wasm32-unknown-unknown/release/deps/libahash-b7b8872986bf7931.rlib: /home/emilbob/.cargo/registry/src/github.com-1ecc6299db9ec823/ahash-0.7.6/src/lib.rs /home/emilbob/.cargo/registry/src/github.com-1ecc6299db9ec823/ahash-0.7.6/src/convert.rs /home/emilbob/.cargo/registry/src/github.com-1ecc6299db9ec823/ahash-0.7.6/src/fallback_hash.rs /home/emilbob/.cargo/registry/src/github.com-1ecc6299db9ec823/ahash-0.7.6/src/operations.rs /home/emilbob/.cargo/registry/src/github.com-1ecc6299db9ec823/ahash-0.7.6/src/random_state.rs /home/emilbob/.cargo/registry/src/github.com-1ecc6299db9ec823/ahash-0.7.6/src/specialize.rs
+
+/mnt/c/My/Kursevi/Udemy/Near/fungible-rust/contract/target/wasm32-unknown-unknown/release/deps/ahash-b7b8872986bf7931.d: /home/emilbob/.cargo/registry/src/github.com-1ecc6299db9ec823/ahash-0.7.6/src/lib.rs /home/emilbob/.cargo/registry/src/github.com-1ecc6299db9ec823/ahash-0.7.6/src/convert.rs /home/emilbob/.cargo/registry/src/github.com-1ecc6299db9ec823/ahash-0.7.6/src/fallback_hash.rs /home/emilbob/.cargo/registry/src/github.com-1ecc6299db9ec823/ahash-0.7.6/src/operations.rs /home/emilbob/.cargo/registry/src/github.com-1ecc6299db9ec823/ahash-0.7.6/src/random_state.rs /home/emilbob/.cargo/registry/src/github.com-1ecc6299db9ec823/ahash-0.7.6/src/specialize.rs
+
+/home/emilbob/.cargo/registry/src/github.com-1ecc6299db9ec823/ahash-0.7.6/src/lib.rs:
+/home/emilbob/.cargo/registry/src/github.com-1ecc6299db9ec823/ahash-0.7.6/src/convert.rs:
+/home/emilbob/.cargo/registry/src/github.com-1ecc6299db9ec823/ahash-0.7.6/src/fallback_hash.rs:
+/home/emilbob/.cargo/registry/src/github.com-1ecc6299db9ec823/ahash-0.7.6/src/operations.rs:
+/home/emilbob/.cargo/registry/src/github.com-1ecc6299db9ec823/ahash-0.7.6/src/random_state.rs:
+/home/emilbob/.cargo/registry/src/github.com-1ecc6299db9ec823/ahash-0.7.6/src/specialize.rs:

@@ -1,0 +1,10 @@
+c:\My\Kursevi\Udemy\Near\fungible-rust\contract\target\debug\deps\secp256k1-9052ba442e342230.rmeta: C:\Users\Korisnik\.cargo\registry\src\github.com-1ecc6299db9ec823\parity-secp256k1-0.7.0\src/lib.rs C:\Users\Korisnik\.cargo\registry\src\github.com-1ecc6299db9ec823\parity-secp256k1-0.7.0\src\macros.rs C:\Users\Korisnik\.cargo\registry\src\github.com-1ecc6299db9ec823\parity-secp256k1-0.7.0\src\constants.rs C:\Users\Korisnik\.cargo\registry\src\github.com-1ecc6299db9ec823\parity-secp256k1-0.7.0\src\ecdh.rs C:\Users\Korisnik\.cargo\registry\src\github.com-1ecc6299db9ec823\parity-secp256k1-0.7.0\src\ffi.rs C:\Users\Korisnik\.cargo\registry\src\github.com-1ecc6299db9ec823\parity-secp256k1-0.7.0\src\key.rs
+
+c:\My\Kursevi\Udemy\Near\fungible-rust\contract\target\debug\deps\secp256k1-9052ba442e342230.d: C:\Users\Korisnik\.cargo\registry\src\github.com-1ecc6299db9ec823\parity-secp256k1-0.7.0\src/lib.rs C:\Users\Korisnik\.cargo\registry\src\github.com-1ecc6299db9ec823\parity-secp256k1-0.7.0\src\macros.rs C:\Users\Korisnik\.cargo\registry\src\github.com-1ecc6299db9ec823\parity-secp256k1-0.7.0\src\constants.rs C:\Users\Korisnik\.cargo\registry\src\github.com-1ecc6299db9ec823\parity-secp256k1-0.7.0\src\ecdh.rs C:\Users\Korisnik\.cargo\registry\src\github.com-1ecc6299db9ec823\parity-secp256k1-0.7.0\src\ffi.rs C:\Users\Korisnik\.cargo\registry\src\github.com-1ecc6299db9ec823\parity-secp256k1-0.7.0\src\key.rs
+
+C:\Users\Korisnik\.cargo\registry\src\github.com-1ecc6299db9ec823\parity-secp256k1-0.7.0\src/lib.rs:
+C:\Users\Korisnik\.cargo\registry\src\github.com-1ecc6299db9ec823\parity-secp256k1-0.7.0\src\macros.rs:
+C:\Users\Korisnik\.cargo\registry\src\github.com-1ecc6299db9ec823\parity-secp256k1-0.7.0\src\constants.rs:
+C:\Users\Korisnik\.cargo\registry\src\github.com-1ecc6299db9ec823\parity-secp256k1-0.7.0\src\ecdh.rs:
+C:\Users\Korisnik\.cargo\registry\src\github.com-1ecc6299db9ec823\parity-secp256k1-0.7.0\src\ffi.rs:
+C:\Users\Korisnik\.cargo\registry\src\github.com-1ecc6299db9ec823\parity-secp256k1-0.7.0\src\key.rs:
